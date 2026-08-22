@@ -27,3 +27,4 @@ pytest              # where tests exist
 ## Log
 
 - 2026-08-22: Set up repo, pushed Month 1 (hello world + calculator + tests). Working through Python fundamentals.
+- Note: second commit to hit Pull Shark bronze (2 merged PRs).
