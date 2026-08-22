@@ -23,3 +23,7 @@ Each month's folder is self-contained. From inside it:
 python calculator.py
 pytest              # where tests exist
 ```
+
+## Log
+
+- 2026-08-22: Set up repo, pushed Month 1 (hello world + calculator + tests). Working through Python fundamentals.
