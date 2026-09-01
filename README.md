@@ -9,20 +9,6 @@ One repo, one commit history, no gaps. Each month gets its own folder:
 the polished project for that month sits at the top level, raw daily
 practice sits in `practice/`.
 
-## Progress
-
-| Month | Focus | Portfolio project |
-|---|---|---|
-| 1 | Python fundamentals (variables, functions, I/O, error handling) | [`calculator.py`](month-01-python-fundamentals/calculator.py) |
-
-## Running things
-
-Each month's folder is self-contained. From inside it:
-
-```bash
-python calculator.py
-pytest              # where tests exist
-```
 
 ## Log
 
