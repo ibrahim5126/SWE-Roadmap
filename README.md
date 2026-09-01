@@ -1,6 +1,6 @@
 # SWE Roadmap — Software Engineering + AI/Data Engineering
 
-Public build log for my transition from BS Business Analytics into Software
+Public build log for my transition into Software
 Engineering, specializing in AI application development with a data
 engineering track on the side. Non-CS-core background, closing the gap
 month by month while shipping something real every step of the way.
